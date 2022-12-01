@@ -1,1 +1,3 @@
-For results obtained during and after Justin's visit to ETH
+# Geometry of Neural Networks
+
+Clone of https://gitlab.inf.ethz.ch/gaertner/geometry-of-ml
